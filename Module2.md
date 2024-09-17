@@ -1,0 +1,1 @@
+## PowerBI Copilot as a report user
