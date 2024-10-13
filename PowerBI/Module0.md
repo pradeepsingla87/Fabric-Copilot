@@ -16,4 +16,7 @@ Copilot for Power BI key features can be distinguished based on different roles(
     - Ask questions about the data in the model
     - Add synonyms to enhance Q&A
     - Add descriptions for your semantic model measures
-  
+
+## Copilot for Power BI accessibility 
+  - Use Copilot in Power BI desktop
+  - Use Copilot in Power BI Service 
