@@ -22,3 +22,7 @@ Copilot for Power BI key features can be distinguished based on different roles(
 ## Copilot for Power BI accessibility 
   - Use Copilot in Power BI desktop
   - Use Copilot in Power BI Service 
+
+## Useful links:-
+- https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction
+- https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-power-bi-desktop
