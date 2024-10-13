@@ -3,7 +3,7 @@ Copilot in Power BI boosts the process of creating reports and analyzing data by
 
 ## Copilot for Power BI Key Features
 
-Copilot for Power BI key features can be distinguished based on different roles:- 
+Copilot for Power BI key features can be distinguished based on different roles(each of these features will be disucssed in detail in the later modules):- 
 
 - For Report Consumer
     - Generate a summary of your report on copilot pane
